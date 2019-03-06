@@ -27,7 +27,7 @@
 			<strong>Emerging</strong>
 		</td>
 		<td>
-		<!--- Emerging Tech Design and Implementation -->	
+		<!--- Emerging Tech Design and Implementation -->
 		</td>
 		<td>
 		<!--- Emerging System Design -->
