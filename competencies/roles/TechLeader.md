@@ -1,5 +1,7 @@
 
-
+As a tech leader your biggest measure of success is the progress your team makes. 
+This appears in both the value your team is able to deliver, but more importantly 
+in team well being/effectiveness and an increase in team members capabilities and career growth.
 
 <table>
 	<tr>
@@ -7,19 +9,19 @@
 			Proficiency
 		</th>
 		<th>
-			Tech Design and Implementation
+			Developing Team Members and Engagement
 		</th>
 		<th>
-			System Design
+			Planning and Releasing Value
 		</th>
 		<th>
-			Development Process and Improvement
+			Facilitation (Process Improvement and Tech Decision)
 		</th>
 		<th>
 			Communication
 		</th>
 		<th>
-			Technical Change
+			Strategy, Alignment, Directional Leadership
 		</th>
 	</tr>
 	<tr>
@@ -27,19 +29,19 @@
 			<strong>Emerging</strong>
 		</td>
 		<td>
-		<!--- Emerging Tech Design and Implementation -->
+		<!--- Emerging  -->
 		</td>
 		<td>
-		<!--- Emerging System Design -->
+		<!--- Emerging  -->
 		</td>
 		<td>
-		<!--- Emerging Development Process and Improvement -->
+		<!--- Emerging  -->
 		</td>
 		<td>
-		<!--- Emerging Communication -->
+		<!--- Emerging  -->
 		</td>
 		<td>
-		<!--- Emerging Technical Change -->
+		<!--- Emerging  -->
 		</td>
 	</tr>
 	<tr>
@@ -47,19 +49,19 @@
 			<strong>Proficent</strong>
 		</td>
 		<td>
-		<!--- Proficent Tech Design and Implementation -->
+		<!--- Proficent  -->
 		</td>
 		<td>
-		<!--- Proficent System Design -->
+		<!--- Proficent  -->
 		</td>
 		<td>
-		<!--- Proficent Development Process and Improvement -->
+		<!--- Proficent  -->
 		</td>
 		<td>
-		<!--- Proficent Communication -->
+		<!--- Proficent  -->
 		</td>
 		<td>
-		<!--- Proficent Technical Change -->
+		<!--- Proficent  -->
 		</td>
 	</tr>
 	<tr>
