@@ -127,6 +127,7 @@
 			4. Use of deliberate facilitation techniques, group meetings are more effective when they are present. <br/>
 			5. Improves others communication through feedback and editing, communicates broadly outside of team <br/>
 		</td>
+		<td>
 		<!--- Authority Technical Change -->
 			1. An advocate for changes, with a business and team aligned mental model of the benefits <br/>
 			2. Not local optimizing, able to see values to changes with local impact and/or remote benefit
