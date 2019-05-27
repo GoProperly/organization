@@ -53,6 +53,9 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Emerging Business Alignment - "Good Questions" -->
+			1. Can assess questions based on whether they are precise enough to develop an analysis or model. 
+			2. Can partipate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.
+			3. Effetive at solicting feedback on effectiveness of analysis in solving problems.
 		</td>
 	</tr>
 	<tr>
@@ -89,6 +92,9 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Proficent Business Alignment - "Good Questions" -->
+			1. Can participate in a business level objectives discussion and develop testable data hypotheses. 
+			2. Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.
+			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; systematically check understanding of problem and relevance of solutions.
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +128,14 @@ in team well being/effectiveness and an increase in team members capabilities an
 			2. Educator and commuicator in the wider data engineering community. <br/>
 			3. Demonstated capability of shifting safely between systems and approaches and models and techniques change<br/>
 			4. Educator in software development tools and techniques applied to data. <br/>
-		
 		</td>
 		<td>
 		<!--- Authority Business Alignment - "Good Questions" -->
+			1. Helps to organize business and data alignment processes that uncover needs. 
+			2. Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add.
+			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions.
+			4. Effective thought partner for decision makers, improving their skills and thinking overall
+			5. Effective at understanding and communicating limitations of "knowing more" 
 		</td>
 	</tr>
 </table>
