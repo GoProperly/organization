@@ -42,9 +42,14 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Emerging Machine Learning Analysis -->
+			1. Can deploy most common machine learning algorithms to a data set for a specific question <br/>
+			2. Understands and and can address or communicate common risks. (Non-representative data set, XYZ)<br/>
 		</td>
 		<td>
 		<!--- Emerging Data Engineering and Software Engineering -->
+			1. Capable of exposing model or prediction information for use in other systems based on group design.
+			2. Capable of manipulating data for testing and experimentation around models and analysis
+			3. Aware of issues around data cleaning and participant in data cleaning design process.
 		</td>
 		<td>
 		<!--- Emerging Business Alignment - "Good Questions" -->
@@ -70,9 +75,17 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Proficent Machine Learning Analysis -->
+			1. Select and deploy variety of machine learning algorithms to complex or abiguous data sets <br/>
+			2. Iterate on model alternatives and constructions <br/>
+			3. Systematic feature engineering processes <br/>
+			4. Proficient at tuning, trouble shooting and assessing subtle model issues. ()<br/>
 		</td>
 		<td>
 		<!--- Proficent Data Engineering and Software Engineering -->
+			1. Systematic approach for integrating models and analysis into the overall software systems, with secondary considerations (scaling, latency, etc.). <br/>
+			2. Designs and implments data pipelines that reflect "research time" and "production" scenarios and design considerations such as separation of concerns, visiblity and data freshness.  <br/>
+			3. Validation and data cleanling monitoring integrated into the system design <br/>
+			4. Active participant in software development tools and techniques applied to data (Pull request, code review, testing, iterative development, ..).
 		</td>
 		<td>
 		<!--- Proficent Business Alignment - "Good Questions" -->
@@ -98,9 +111,18 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Authority Machine Learning Analysis -->
+			1. Select and deploy variety of machine learning algorithms to complex or abiguous data sets <br/>
+			2. System for experimenting with and introducing advanced/innovative techniques.
+			3. Effective at identifying problems that are suitable for ML and limitations of techniques <br/>
+			4. Educator and communicator to develop teammate and community skills (e.g. speaking, coaching, mentoring)<br/>
 		</td>
 		<td>
 		<!--- Authority Data Engineering and Software Engineering -->
+			1. Team and company wide systems for improving cycle time of modelling and analyis softare projects<br/>
+			2. Educator and commuicator in the wider data engineering community. <br/>
+			3. Demonstated capability of shifting safely between systems and approaches and models and techniques change<br/>
+			4. Educator in software development tools and techniques applied to data. <br/>
+		
 		</td>
 		<td>
 		<!--- Authority Business Alignment - "Good Questions" -->
