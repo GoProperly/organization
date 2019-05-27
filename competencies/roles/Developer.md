@@ -7,7 +7,7 @@
 			Proficiency
 		</th>
 		<th>
-			Tech Design and Implementation
+			Tech Design, Implementation and Code Ownership
 		</th>
 		<th>
 			System Design
@@ -27,10 +27,11 @@
 			<strong>Emerging</strong>
 		</td>
 		<td>
-		<!--- Emerging Tech Design and Implementation -->	
+		<!--- Emerging Tech Design, Implementation and Code Ownership-->	
 			1. Given tech design goals can identify a development approach to breaking down a problem. <br/> 
 			2. Can evaluate and compare two pieces of code with provided design goals <br/>
 			3. Can develop code and tests within an agreed design structure, can contribute to the design discussion <br/>
+			4. Contributing as one of the team to codebase, ownership of small changes. <br/>
 		</td>
 		<td>
 		<!--- Emerging System Design -->
@@ -61,11 +62,12 @@
 			<strong>Proficent</strong>
 		</td>
 		<td>
-		<!--- Proficent Tech Design and Implementation -->
+		<!--- Proficent Tech Design, Implementation and Code Ownership -->
 			1. Routinely identifies multiple approaches as implementing solutions. <br/> 
 			2. Collaborates on tech approaches, routinely provides valuable ideas in design and code review <br/>
 			3. Influences immediate team on tech design and design criteria. <br/>
-			4.Routinely undertakes the most complicated areas of the system successfully. <br/>	 
+			4. Routinely undertakes the most complicated areas of the system successfully. <br/>	
+			5. A trusted member of the team taking ownership of important system components. <br/> 
 		</td>
 		<td>
 		<!--- Proficent System Design -->
@@ -98,12 +100,13 @@
 			<strong>Authority</strong>
 		</td>
 		<td>
-		<!--- Authority Tech Design and Implementation -->
+		<!--- Authority Tech Design, Implementation and Code Ownership -->
 			1. Foresees pitfalls in technical approaches early, and takes steps to understand and avoid when appropriate. <br/> 
 			2. Recognized by peers as someone to ask for input and help.  <br/>
 			3. Influences design criteria throughout the company and beyond. <br/>
 			4. Demonstrated ability to solve technical solutions that have been a barrier to the team. <br/>
 			5. Can strengthen the design of a system and introduce new technologies effectively <br/> 
+			6. Broad responsibility for team code base, coordinating others contributions <br/>
 		</td>
 		<td>
 		<!--- Authority System Design -->
