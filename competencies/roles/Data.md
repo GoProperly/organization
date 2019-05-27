@@ -36,7 +36,9 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Emerging Statistical Analysis -->
-			1. Proficient in using 
+			1. Capable of applying common statistical techniques (variance, confidence, averages, percentiles; etc) in answering questions <br/>
+		    2. Can use different aspects of error and incorporates into analysis e.g.: false positives/negatives, precision, recall, null hypothesis, etc. <br/>
+		    3. Broad enough domain knowlege to learn new techniques for a particular problem from mathematical resource <br/>
 		</td>
 		<td>
 		<!--- Emerging Machine Learning Analysis -->
@@ -61,6 +63,10 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Proficent Statistical Analysis -->
+			1. Able to apply a variety of techniques and assess their relevance to the problem space. <br/>
+		    2. Strong capability to communicate and think about advanced error scenearios call, and identifying techniques to minimize or account for error <br/>
+		    3. Broad set of techniques practiced, able to understand applicabilty of advanced techniques and implement or integrate <br/>
+			4. Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.) <br/>
 		</td>
 		<td>
 		<!--- Proficent Machine Learning Analysis -->
@@ -85,6 +91,10 @@ in team well being/effectiveness and an increase in team members capabilities an
 		</td>
 		<td>
 		<!--- Authority Statistical Analysis -->
+			1. Innovating on application of mathematical techniques.  Assess their relevance to the problem space. <br/>
+		    2. Helps team develop their thinking around error and evidence <br/>
+		    3. Leads the selection of techniques and intetrodution of new techniques to the team<br/>
+			4. Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.) and educates wider team <br/>
 		</td>
 		<td>
 		<!--- Authority Machine Learning Analysis -->
