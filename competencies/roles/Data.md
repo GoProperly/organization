@@ -48,15 +48,15 @@ and within our product and create insights that can be acted upon.
 		</td>
 		<td>
 		<!--- Emerging Data Engineering and Software Engineering -->
-			1. Capable of exposing model or prediction information for use in other systems based on group design.
-			2. Capable of manipulating data for testing and experimentation around models and analysis
-			3. Aware of issues around data cleaning and participant in data cleaning design process.
+			1. Capable of exposing model or prediction information for use in other systems based on group design.  <br/>
+			2. Capable of manipulating data for testing and experimentation around models and analysis  <br/>
+			3. Aware of issues around data cleaning and participant in data cleaning design process.  <br/>
 		</td>
 		<td>
 		<!--- Emerging Business Alignment - "Good Questions" -->
-			1. Can assess questions based on whether they are precise enough to develop an analysis or model. 
-			2. Can partipate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.
-			3. Effetive at solicting feedback on effectiveness of analysis in solving problems.
+			1. Can assess questions based on whether they are precise enough to develop an analysis or model.  <br/>
+			2. Can partipate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.  <br/>
+			3. Effetive at solicting feedback on effectiveness of analysis in solving problems.  <br/>
 		</td>
 	</tr>
 	<tr>
@@ -89,13 +89,13 @@ and within our product and create insights that can be acted upon.
 			1. Systematic approach for integrating models and analysis into the overall software systems, with secondary considerations (scaling, latency, etc.). <br/>
 			2. Designs and implments data pipelines that reflect "research time" and "production" scenarios and design considerations such as separation of concerns, visiblity and data freshness.  <br/>
 			3. Validation and data cleanling monitoring integrated into the system design <br/>
-			4. Active participant in software development tools and techniques applied to data (Pull request, code review, testing, iterative development, ..).
+			4. Active participant in software development tools and techniques applied to data (Pull request, code review, testing, iterative development, ..).  <br/>
 		</td>
 		<td>
 		<!--- Proficent Business Alignment - "Good Questions" -->
-			1. Can participate in a business level objectives discussion and develop testable data hypotheses. 
-			2. Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.
-			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; systematically check understanding of problem and relevance of solutions.
+			1. Can participate in a business level objectives discussion and develop testable data hypotheses.  <br/>
+			2. Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.  <br/>
+			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; systematically check understanding of problem and relevance of solutions.  <br/>
 		</td>
 	</tr>
 	<tr>
@@ -119,7 +119,7 @@ and within our product and create insights that can be acted upon.
 		<td>
 		<!--- Authority Machine Learning Analysis -->
 			1. Select and deploy variety of machine learning algorithms to complex or abiguous data sets <br/>
-			2. System for experimenting with and introducing advanced/innovative techniques.
+			2. System for experimenting with and introducing advanced/innovative techniques.  <br/>
 			3. Effective at identifying problems that are suitable for ML and limitations of techniques <br/>
 			4. Educator and communicator to develop teammate and community skills (e.g. speaking, coaching, mentoring)<br/>
 		</td>
@@ -132,11 +132,11 @@ and within our product and create insights that can be acted upon.
 		</td>
 		<td>
 		<!--- Authority Business Alignment - "Good Questions" -->
-			1. Helps to organize business and data alignment processes that uncover needs. 
-			2. Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add.
-			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions.
-			4. Effective thought partner for decision makers, improving their skills and thinking overall
-			5. Effective at understanding and communicating limitations of "knowing more" 
+			1. Helps to organize business and data alignment processes that uncover needs.   <br/>
+			2. Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add.  <br/>
+			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions.  <br/>
+			4. Effective thought partner for decision makers, improving their skills and thinking overall  <br/>
+			5. Effective at understanding and communicating limitations of "knowing more" when a problem is no longer a "know more" situation. <br/>
 		</td>
 	</tr>
 </table>

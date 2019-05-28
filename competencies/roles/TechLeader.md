@@ -74,7 +74,7 @@ in team well being/effectiveness and an increase in team members capabilities an
 		<td>
 		<!--- Proficent Releasing Value -->
 			1. Actively decomposing product goals into technical dependencies and risks along with technical leaders.<br/>
-			2. Continuously focusing the team on stories and approaches that achieve prioritization goals (impact, or learning or generating options)
+			2. Continuously focusing the team on stories and approaches that achieve prioritization goals (impact, or learning or generating options)  <br/>
 			3. Working with team to reflect on each release and improve toolchains or procesess <br/>
 			4. Systematic and high degree of understanding of velocity, and blockers. <br/>
 			5. Systems (checkins, updates, feedback) to confirm release readiness. <br/>
@@ -98,8 +98,8 @@ in team well being/effectiveness and an increase in team members capabilities an
 		<!--- Proficent Strategy, Alignment, Directional Leadership -->
 			1. Creates opportunities to link activities to outcomes, can provide feedback and perspective in terms of direction. <br/>
 			2. Effective at generate outcomes for self and others that fit into a larger picture. <br/> 		
-			3. Strong thought partner on sufficienty (will those outcomes work) with other leaders.
-			4. Effective at highlighting unnecessary goals or hidden implications. 
+			3. Strong thought partner on sufficienty (will those outcomes work) with other leaders.  <br/>
+			4. Effective at highlighting unnecessary goals or hidden implications.  <br/>
 		</td>
 	</tr>
 	<tr>
@@ -140,10 +140,10 @@ in team well being/effectiveness and an increase in team members capabilities an
 		<!--- Authority Strategy, Alignment, Directional Leadership -->
 			1. Helps others understand linkages to outcomes and alignments <br/>
 			2. Effective at scenario planning and assisting with evaluationg outcome sets of alternate futures. <br/> 		
-			3. Strong thought partner on sufficienty (will those outcomes work) with other leaders.
-			4. Effective at highlighting unnecessary goals or hidden implications within the wider communty and company.. 
-			5. Helps others take smart risks. Helps team widely have space for exploring and correcting direction. 
-			6. Contributes to leadership process improvement and individual development.
+			3. Strong thought partner on sufficienty (will those outcomes work) with other leaders.  <br/>
+			4. Effective at highlighting unnecessary goals or hidden implications within the wider communty and company..  <br/>
+			5. Helps others take smart risks. Helps team widely have space for exploring and correcting direction.  <br/>
+			6. Contributes to leadership process improvement and individual development. <br/>
 		</td>
 	</tr>
 </table>
