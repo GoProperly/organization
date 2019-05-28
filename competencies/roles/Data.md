@@ -1,7 +1,8 @@
 
-As a tech leader your biggest measure of success is the progress your team makes. 
-This appears in both the value your team is able to deliver, but more importantly 
-in team well being/effectiveness and an increase in team members capabilities and career growth.
+In data science there are a variety of competetencies in different combinations that 
+are typically referred to by different role names.  
+Ultimately these roles help our organization ask better questions of ourselves
+and within our product and create insights that can be acted upon. 
 
 <table>
 	<tr>
