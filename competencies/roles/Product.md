@@ -76,11 +76,11 @@ with the broader team and leadership.
 		</td>
 		<td>
 		<!--- Proficent Communication -->
-		</td>
 			1. Can communicate on topics across business, organizational, user, marketing, product etc. domains. <br/>
 			2. Uses a variety of written, visual, and oral tools with techniques for clarity and impact.<br/>
 			3. Effectively focuses on audience as a first step in communication. <br/>
 			4. Communication techniques used to confirm understanding and intent ranging from explicit feedback to engouraging restatement to body language. <br/>
+		</td>
 		<td>
 		<!--- Proficent Analysis -->
 			1. Identifies key analysis for a program <br/> 
