@@ -1,87 +1,44 @@
 
-As a tech leader your biggest measure of success is the progress your team makes. 
-This appears in both the value your team is able to deliver, but more importantly 
-in team well being/effectiveness and an increase in team members capabilities and career growth.
+
+Overview
+
+This role involves ....
+
+
+As well as the role specific competencies below, all tech roles in properly involve
+[General Properly Competencies](./_TechWideGeneral.md)
+
 
 <table>
 	<tr>
 		<th>
-			Proficiency
+			Area
 		</th>
 		<th>
-			Competency Area 1
+			Emerging
 		</th>
 		<th>
-			Competency Area 2
+			Proficient
 		</th>
 		<th>
-			Competency Area 3
-		</th>
-		<th>
-			Competency Area 4
-		</th>
-		<th>
-			Competency Area 5
+			Authority
 		</th>
 	</tr>
 	<tr>
 		<td>
-			<strong>Emerging</strong>
+			<strong>Name</strong>
 		</td>
-		<td>
+		<td><ul>
 		<!--- Emerging  -->
-		</td>
-		<td>
-		<!--- Emerging  -->
-		</td>
-		<td>
-		<!--- Emerging  -->
-		</td>
-		<td>
-		<!--- Emerging  -->
-		</td>
-		<td>
-		<!--- Emerging  -->
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<strong>Proficent</strong>
-		</td>
-		<td>
+		    Example of early demonstration
+		</ul></td>
+		<td><ul>
 		<!--- Proficent  -->
-		</td>
-		<td>
-		<!--- Proficent  -->
-		</td>
-		<td>
-		<!--- Proficent  -->
-		</td>
-		<td>
-		<!--- Proficent  -->
-		</td>
-		<td>
-		<!--- Proficent  -->
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<strong>Authority</strong>
-		</td>
-		<td>
+		    Example of proficient demonstration
+		</ul></td>
+		<td><ul>
 		<!--- Authority -->
-		</td>
-		<td>
-		<!--- Authority  -->
-		</td>
-		<td>
-		<!--- Authority  -->
-		</td>
-		<td>
-		<!--- Authority  -->
-		</td>
-		<td>
-		<!--- Authority  -->
-		</td>
+		    What does great look like
+		</ul></td>
 	</tr>
 </table>
