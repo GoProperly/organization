@@ -1,7 +1,13 @@
 
-As a tech leader your biggest measure of success is the progress your team makes. 
-This appears in both the value your team is able to deliver, but more importantly 
-in team well being/effectiveness and an increase in team members capabilities and career growth.
+
+Overview
+
+This role involves ....
+
+
+As well as the role specific competencies below, all tech roles in properly involve
+[General Properly Competencies](./_TechWideGeneral.md)
+
 
 <table>
 	<tr>
