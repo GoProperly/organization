@@ -1,142 +1,133 @@
 
-In data science there are a variety of competetencies in different combinations that 
-are typically referred to by different role names.  
-Ultimately these roles help our organization ask better questions of ourselves
-and within our product and create insights that can be acted upon. 
+DataScience at Properly includes machine learning but also data analysis and statistics. The role works closely 
+with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also with Product roles.  Excellence
+ in data science will require adopting some of the practices and skills of those roles. 
+ 
+ As well as the role specific competencies below, all tech roles in properly involve
+ [General Properly Competencies](./_TechWideGeneral.md)
+
 
 <table>
-	<tr>
-		<th>
-			Proficiency
-		</th>
-		<th>
-			Reporting and Visualization
-		</th>
-		<th>
-			Statistical Analysis
-		</th>
-		<th>
-			Machine Learning Analysis
-		</th>
-		<th>
-			Data Engineering and Software Engineering
-		</th>
-		<th>
-			Business Alignment - "Good Questions"
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<strong>Emerging</strong>
-		</td>
-		<td>
-		<!--- Emerging Reporting and Visualization -->
-			1. Can produce clear and accurate answers and visualizations. <br/>
-			2. Understands different audience and can respond to requests for changes in complexity and narrative <br/>
-			3. Able to use basic tool set (e.g. sql and graphing tool such as redash, and excel or google sheets ) <br/>
-		</td>
-		<td>
-		<!--- Emerging Statistical Analysis -->
-			1. Capable of applying common statistical techniques (variance, confidence, averages, percentiles; etc) in answering questions <br/>
-		    2. Can use different aspects of error and incorporates into analysis e.g.: false positives/negatives, precision, recall, null hypothesis, etc. <br/>
-		    3. Broad enough domain knowlege to learn new techniques for a particular problem from mathematical resource <br/>
-		</td>
-		<td>
-		<!--- Emerging Machine Learning Analysis -->
-			1. Can deploy most common machine learning algorithms to a data set for a specific question <br/>
-			2. Understands and and can address or communicate common risks. (Non-representative data set, XYZ)<br/>
-		</td>
-		<td>
-		<!--- Emerging Data Engineering and Software Engineering -->
-			1. Capable of exposing model or prediction information for use in other systems based on group design.  <br/>
-			2. Capable of manipulating data for testing and experimentation around models and analysis  <br/>
-			3. Aware of issues around data cleaning and participant in data cleaning design process.  <br/>
-		</td>
-		<td>
-		<!--- Emerging Business Alignment - "Good Questions" -->
-			1. Can assess questions based on whether they are precise enough to develop an analysis or model.  <br/>
-			2. Can partipate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.  <br/>
-			3. Effetive at solicting feedback on effectiveness of analysis in solving problems.  <br/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<strong>Proficent</strong>
-		</td>
-		<td>
-		<!--- Proficent Reporting and Visualization  -->
-			1. Can produce reports and visualizations to explore and find insights in a general domain. <br/>
-			2. Actively designs for audience and purpose of report <br/>
-			3. Can develop Reports and visualizations that can simplify complex information substantially or can identify important nuance<br/>
-			4. Selects among a wide range of tools and deliberately chooses for situational effectiveness (offline analysis, code, sql, BI tools, sheets/excel) <br/>
-		</td>
-		<td>
-		<!--- Proficent Statistical Analysis -->
-			1. Able to apply a variety of techniques and assess their relevance to the problem space. <br/>
-		    2. Strong capability to communicate and think about advanced error scenearios call, and identifying techniques to minimize or account for error <br/>
-		    3. Broad set of techniques practiced, able to understand applicabilty of advanced techniques and implement or integrate <br/>
-			4. Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.) <br/>
-		</td>
-		<td>
-		<!--- Proficent Machine Learning Analysis -->
-			1. Select and deploy variety of machine learning algorithms to complex or abiguous data sets <br/>
-			2. Iterate on model alternatives and constructions <br/>
-			3. Systematic feature engineering processes <br/>
-			4. Proficient at tuning, trouble shooting and assessing subtle model issues. ()<br/>
-		</td>
-		<td>
-		<!--- Proficent Data Engineering and Software Engineering -->
-			1. Systematic approach for integrating models and analysis into the overall software systems, with secondary considerations (scaling, latency, etc.). <br/>
-			2. Designs and implments data pipelines that reflect "research time" and "production" scenarios and design considerations such as separation of concerns, visiblity and data freshness.  <br/>
-			3. Validation and data cleanling monitoring integrated into the system design <br/>
-			4. Active participant in software development tools and techniques applied to data (Pull request, code review, testing, iterative development, ..).  <br/>
-		</td>
-		<td>
-		<!--- Proficent Business Alignment - "Good Questions" -->
-			1. Can participate in a business level objectives discussion and develop testable data hypotheses.  <br/>
-			2. Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.  <br/>
-			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; systematically check understanding of problem and relevance of solutions.  <br/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<strong>Authority</strong>
-		</td>
-		<td>
-		<!--- Authority Reporting and Visualization -->
-			1. Routinely identifies important areas to report and visualize. <br/>
-			2. Improves overall clarity of the company in thinking about a problem space <br/>
-			3. Routinely develops reports and visualizations that  simplify complex information substantially or identify important nuance<br/>
-			4. Educates wider team a wide range of tools for reporting and visualizations <br/>
-		</td>
-		<td>
-		<!--- Authority Statistical Analysis -->
-			1. Innovating on application of mathematical techniques.  Assess their relevance to the problem space. <br/>
-		    2. Helps team develop their thinking around error and evidence <br/>
-		    3. Leads the selection of techniques and intetrodution of new techniques to the team<br/>
-			4. Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.) and educates wider team <br/>
-		</td>
-		<td>
-		<!--- Authority Machine Learning Analysis -->
-			1. Select and deploy variety of machine learning algorithms to complex or abiguous data sets <br/>
-			2. System for experimenting with and introducing advanced/innovative techniques.  <br/>
-			3. Effective at identifying problems that are suitable for ML and limitations of techniques <br/>
-			4. Educator and communicator to develop teammate and community skills (e.g. speaking, coaching, mentoring)<br/>
-		</td>
-		<td>
-		<!--- Authority Data Engineering and Software Engineering -->
-			1. Team and company wide systems for improving cycle time of modelling and analyis softare projects<br/>
-			2. Educator and commuicator in the wider data engineering community. <br/>
-			3. Demonstated capability of shifting safely between systems and approaches and models and techniques change<br/>
-			4. Educator in software development tools and techniques applied to data. <br/>
-		</td>
-		<td>
-		<!--- Authority Business Alignment - "Good Questions" -->
-			1. Helps to organize business and data alignment processes that uncover needs.   <br/>
-			2. Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add.  <br/>
-			3. Systematically approach questions of effectiveness and identify adjacent opporunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions.  <br/>
-			4. Effective thought partner for decision makers, improving their skills and thinking overall  <br/>
-			5. Effective at understanding and communicating limitations of "knowing more" when a problem is no longer a "know more" situation. <br/>
-		</td>
-	</tr>
+    <tr>
+        <th>
+            Area
+        </th>
+        <th>
+            Emerging
+        </th>
+        <th>
+            Proficient
+        </th>
+        <th>
+            Authority
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <strong>Business Alignment - "Good Questions"</strong>
+        </td>
+        <td><ul>
+            <li>Can assess questions based on whether they are precise enough to develop an analysis or model.</li>
+            <li>Can participate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.</li>
+            <li>Effective at soliciting feedback on the effectiveness of analysis in solving problems.</li>
+        </ul></td>
+        <td><ul>
+            <!--- Proficent  -->
+            <li>Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.</li>
+            <li>Can participate in a business level objectives discussion and develop testable data hypotheses.</li>
+            <li>Systematically approach questions of effectiveness and identify adjacent opportunities or questions;
+                systematically check understanding of problem and relevance of solutions.</li>
+        </ul></td>
+        <td><ul>
+            <!--- Authority -->
+            <li>Effective at understanding and communicating limitations of "knowing more" when a problem is no longer a "know more" situation</li>
+            <li>Effective thought partner for decision makers, improving their skills and thinking overall</li>
+            <li>Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add</li>
+            <li>Helps to organize business and data alignment processes that uncover needs</li>
+            <li>Systematically approach questions of effectiveness and identify adjacent opportunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions</li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Error, Causality, Inference </strong>
+        </td>
+        <td><ul>
+            <!--- Emerging  -->
+            <li>Broad enough domain knowledge to learn new techniques for a particular problem from mathematical resources</li>
+            <li>Can use different aspects of error and incorporates into analysis e.g.: false positives/negatives, precision, recall, null hypothesis, etc</li>
+            <li>Capable of applying common statistical techniques (variance, confidence, averages, percentiles; etc) in answering questions</li>
+            <li>Avoids inference and sticks to observation of relationship</li>
+        </ul></td>
+        <td><ul>
+            <!--- Proficent  -->
+            <li>Able to apply a variety of techniques and assess their relevance to the problem space</li>
+            <li>Broad set of techniques practiced, able to understand the applicability of advanced techniques and implement or integrate</li>
+            <li>Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.)</li>
+            <li>Strong capability to communicate and think about advanced error scenarios call, and identifying techniques to minimize or account for error</li>
+            <li>Uses inference carefully when working with a priori hypothesis and method; and and avoids inference during exploration and analysis</li>
+        </ul></td>
+        <td><ul>
+            <!--- Authority -->
+            <li>Helps team develop their thinking around error and evidence</li>
+            <li>Innovating on application of mathematical techniques. Assess their relevance to the problem space</li>
+            <li>Leads the selection of techniques and introduction of new techniques to the team</li>
+            <li>Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.) and educates wider team</li>
+            <li>Advances team understanding of when inference and observation is reasonable, incorporates that thinking throughout decision making process</li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Machine Learning Analysis</strong>
+        </td>
+        <td><ul>
+            <!--- Emerging  -->
+            <li>Can deploy most common machine learning algorithms to a data set for a specific question</li>
+            <li>Understands and can address or characterize common risks. (e.g. Non-representative data set)</li>
+            <li>Knows the concept of the basic algorithms (linear regression, decision tree, SVM...)</li>
+            <li>Knows how to use the ml libraries in at least one environment (e.g. python sklearn…)</li>
+        </ul></td>
+        <td><ul>
+            <!--- Proficent  -->
+            <li>Connect research on the problem structure we want to solve to identify likely effective algorithms</li>
+            <li>Iterate on model alternatives and constructions</li>
+            <li>Proficient at tuning, troubleshooting and assessing subtle model issues.</li>
+            <li>Select and deploy a variety of machine learning algorithms to complex or ambiguous data sets</li>
+            <li>Systematic feature engineering processes</li>
+            <li>Routinely applies techniques to create strong models (tune the hyperparameters, evaluate the model, prevent overfitting, process and deal with missing data)</li>
+        </ul></td>
+        <td><ul>
+            <!--- Authority -->
+            <li>Understand the risks and failure modes of using particular models</li>
+            <li>Educator and communicator to develop teammates and community skills (e.g. speaking, coaching, mentoring)</li>
+            <li>Effective at identifying problems that are suitable for ML and limitations of techniques</li>
+            <li>Select and deploy a variety of machine learning algorithms to complex or ambiguous data sets</li>
+            <li>System for experimenting with and introducing advanced/innovative techniques.</li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Reporting and Visualization</strong>
+        </td>
+        <td><ul>
+            <!--- Emerging  -->
+            <li>Able to use basic tool set (e.g. sql and graphing tool such as redash, and excel or google sheets )</li>
+            <li>Can produce clear and accurate answers and visualizations</li>
+            <li>Understands different audiences and can respond to requests for changes in complexity and narrative</li>
+        </ul></td>
+        <td><ul>
+            <!--- Proficent  -->
+            <li>Actively designs for audience and purpose of report
+            <li>Can develop Reports and visualizations that can simplify complex information substantially or can identify important nuance</li>
+            <li>Can produce reports and visualizations to explore and find insights in a general domain</li>
+            <li>Selects among a wide range of tools and deliberately chooses for situational effectiveness (offline analysis, code, sql, BI tools, sheets/excel)</li>
+        </ul></td>
+        <td><ul>
+            <!--- Authority -->
+            <li>Educates wider team a wide range of tools for reporting and visualizations</li>
+            <li>Improves overall clarity of the company in thinking about a problem space</li>
+            <li>Routinely develops reports and visualizations that simplify complex information substantially or identify important nuance</li>
+            <li>Routinely identifies important areas to report and visualize</li>
+        </ul></td>
+    </tr>
 </table>
+
