@@ -22,17 +22,17 @@ in team well being/effectiveness and an increase in team members capabilities an
 		<td>
 			<strong>Name</strong>
 		</td>
-		<td>
+		<td><ul>
 		<!--- Emerging  -->
 		    Example of early demonstration
-		</td>
-		<td>
+		</ul></td>
+		<td><ul>
 		<!--- Proficent  -->
 		    Example of proficient demonstration
-		</td>
-		<td>
+		</ul></td>
+		<td><ul>
 		<!--- Authority -->
 		    What does great look like
-		</td>
+		</ul></td>
 	</tr>
 </table>
