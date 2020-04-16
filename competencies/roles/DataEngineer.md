@@ -43,7 +43,6 @@ The DataEngineer role most often works closely with other Developers and with Da
             <li>Systematic approach for integrating models and analysis into the overall software systems, with secondary considerations (scaling, latency, etc.)</li>
             <li>Validation and data cleaning monitoring integrated into the system design</li>
             <li>Capable of breaking a problem down into set processing logic on the first pass</li>
-            <li>Advanced education/knowledge of statistics; machine learning, model fitting, probability, process control</li>
             <li>Knowledgeable with computer hardware regarding how it applies to and constrains data processing operations</li>
             <li>Able to identify common data processing pitfalls in data system design (Eg: understanding everything a given system will need to do and knowing which ones do not
             meet that criteria) and identify the tradeoffs and benefits
