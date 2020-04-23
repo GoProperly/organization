@@ -37,7 +37,7 @@
         <td><ul>
             <!--- Authority -->
             <li>Connected within the industry; leverages network actively</li>
-            <li>astery of business drivers and unit economics</li>
+            <li>Mastery of business drivers and unit economics</li>
             <li>Nuanced understanding of cross-functional dependencies</li>
             <li>Sees and unlocks opportunities that create value for the business</li>
         </ul></td>
