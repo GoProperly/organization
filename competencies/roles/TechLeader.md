@@ -44,7 +44,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Codevelops a reasonable learning and development plan for team with support from other leaders.</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Actively assessing and focusing on team motivation.</li>
             <li>Actively provides frequent feedback that provides reinforcement and career development and improves team member contributions</li>
             <li>Capable of self improvement of leadership by soliciting and responding to teams feedback and adapting approach</li>
@@ -70,7 +70,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Situational awareness of meeting dynamics (stress, conflict, disengagment, confusion, etc.)</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Deploys varied tools to deliver varied outcomes (input vs decision making vs alignment). Team decision quality goes up in their presence</li>
             <li>Ensures relevant voices are present and heard especially based on different communication style or role</li>
             <li>Reflects on and solicits improvements to meetings and communication activities; each iteration tends to improve</li>
@@ -95,7 +95,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Has a general sense of team progress and items that may have interrupted or slowed them down in the previous period</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Actively decomposing product goals into technical dependencies and risks along with technical leaders</li>
             <li>Continuously focusing the team on stories and approaches that achieve prioritization goals (impact, or learning or generating options)</li>
             <li>Make visible tradeoffs and choices within the team</li>
@@ -123,7 +123,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Understands manager/leader importance in bidirectional alignment and capable of relaying plans and feedback between parts of the organization</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Creates opportunities to link activities to outcomes, can provide feedback and perspective in terms of direction</li>
             <li>Effective at generate outcomes for self and others that fit into a larger picture</li>
             <li>Effective at highlighting unnecessary goals or hidden implications</li>
