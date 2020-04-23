@@ -32,7 +32,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <li>Effective at soliciting feedback on the effectiveness of analysis in solving problems.</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.</li>
             <li>Can participate in a business level objectives discussion and develop testable data hypotheses.</li>
             <li>Systematically approach questions of effectiveness and identify adjacent opportunities or questions;
@@ -59,7 +59,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <li>Avoids inference and sticks to observation of relationship</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Able to apply a variety of techniques and assess their relevance to the problem space</li>
             <li>Broad set of techniques practiced, able to understand the applicability of advanced techniques and implement or integrate</li>
             <li>Proficient with tooling for advance processing (R, Python, sql windowing functions, etc.)</li>
@@ -87,7 +87,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <li>Knows how to use the ml libraries in at least one environment (e.g. python sklearn…)</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Connect research on the problem structure we want to solve to identify likely effective algorithms</li>
             <li>Iterate on model alternatives and constructions</li>
             <li>Proficient at tuning, troubleshooting and assessing subtle model issues.</li>
@@ -115,7 +115,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <li>Understands different audiences and can respond to requests for changes in complexity and narrative</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Actively designs for audience and purpose of report
             <li>Can develop Reports and visualizations that can simplify complex information substantially or can identify important nuance</li>
             <li>Can produce reports and visualizations to explore and find insights in a general domain</li>

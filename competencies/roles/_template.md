@@ -33,7 +33,7 @@ As well as the role specific competencies below, all tech roles in properly invo
 		    Example of early demonstration
 		</ul></td>
 		<td><ul>
-		<!--- Proficent  -->
+		<!--- Proficient  -->
 		    Example of proficient demonstration
 		</ul></td>
 		<td><ul>

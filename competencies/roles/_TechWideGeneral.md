@@ -27,7 +27,7 @@
             <li>Understands most metrics and basic financial analysis</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Considers medium to long term implications of strategic decisions </li>
             <li>Demonstrates ability to direct energy toward areas of opportunity and risk </li>
             <li>Stays current on industry trends and proactively “imports” best practice </li>
@@ -54,7 +54,7 @@
             <li>Presents material in small group settings; occasionally large-group settings</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Adapts communication style to suit the audience</li>
             <li>Independently manages large group meetings</li>
             <li>Listens to differing opinions and shifts perspective dynamically</li>
@@ -84,7 +84,7 @@
             <li>Shows resourcefulness and willingness to get more done with less</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Anticipates need to shift resources based on new information</li>
             <li>Capable of juggling multiple workstreams</li>
             <li>Takes initiative to automate, innovate, and improve efficiency of operations</li>
@@ -108,7 +108,7 @@
             <li>Seeks opportunity to share knowledge, learning with others.</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Exercises assumption of good-intent within and across teams</li>
             <li>Takes regular opportunities to give and solicit feedback</li>
         </ul></td>

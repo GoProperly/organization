@@ -36,7 +36,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Values and adopts team norms related to the development process (testing, release, code review, tech decisions)</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Advocates and incorporates processes that have been successful for them in the past (testing, release, code review, tech decisions)</li>
             <li>Has a "reason for practice/process change" framework and seeks out ways of improving their craft</li>
             <li>Mental model of the impact of particular processes, actively identifies processes that don't seem to be effective</li>
@@ -59,7 +59,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Understands and accepts importance of system design, and understands that relative importance is situational and has a cost</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Actively develops and tests for relevant system issues (what happens in failure, how is the latency)</li>
             <li>Routinely considers most important system characteristics in designs (e.g. latency vs throughput vs resilience)</li>
             <li>Routinely raises system relevant system design factors, and helps team disregard irrelevant (latency on background process, testability of one time script)</li>
@@ -84,7 +84,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Given tech design goals can identify a development approach to breaking down a problem</li>
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>A trusted member of the team taking ownership of important system components</li>
             <li>Collaborates on tech approaches, routinely provides valuable ideas in design and code review</li>
             <li>Influences immediate team on tech design and design criteria</li>
@@ -110,7 +110,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             Not Applicable.
         </ul></td>
         <td><ul>
-            <!--- Proficent  -->
+            <!--- Proficient  -->
             <li>Demonstrated ability to support and contribute to long term or high impact changes</li>
             <li>Recognizes the human and team connection to big changes</li>
             <li>Understands tradeoffs between major technical systems and approaches</li>
