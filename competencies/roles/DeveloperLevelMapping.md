@@ -2,7 +2,7 @@ The three categories of competencies can be used to map to typical job titles sp
 
 
 
-| Title/Job           | Key Competenies           | Other Competencies           |     Notes  |
+| Title/Job           | Key Competencies           | Other Competencies           |     Notes  |
 | ------------------- |:-------------------------:| ----------------------------:| ----------:|
 | SW Dev I (junior)   |                           | 90% emerging; 10% proficient |  New Grad, or first one or two years |
 | SW Dev II           | Proficient: "Tech Design, Implementation and Code Ownership"      |  50% emerging, 50% proficient  |   |
