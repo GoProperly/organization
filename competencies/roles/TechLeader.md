@@ -48,7 +48,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Actively assessing and focusing on team motivation.</li>
             <li>Actively provides frequent feedback that provides reinforcement and career development and improves team member contributions</li>
             <li>Capable of self improvement of leadership by soliciting and responding to teams feedback and adapting approach</li>
-            <li>Planing and framework innovation for team growth (hiring, activities, meeting cadences) to improve team dynamics and performance</li>
+            <li>Planning and framework innovation for team growth (hiring, activities, meeting cadences) to improve team dynamics and performance</li>
             <li>Productive and engaging one on one sessions that can explore senstive feedback or challenging team and corporate questions</li>
         </ul></td>
         <td><ul>
