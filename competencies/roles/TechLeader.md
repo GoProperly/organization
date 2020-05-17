@@ -91,7 +91,7 @@ As well as the role specific competencies below, all tech roles in properly invo
         <td><ul>
             <!--- Emerging  -->
             <li>Able to help a team use the common release process to ship stories prioritized by the product person</li>
-            <li>Can help individuals answer questions or find the people the can (unblocking)</li>
+            <li>Can help individuals answer questions or find the people that can (unblocking)</li>
             <li>Has a general sense of team progress and items that may have interrupted or slowed them down in the previous period</li>
         </ul></td>
         <td><ul>
