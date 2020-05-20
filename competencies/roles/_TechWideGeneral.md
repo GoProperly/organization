@@ -117,7 +117,7 @@
             <li>Builds relationships across functional leaders</li>
             <li>Champions growth of individuals on the team</li>
             <li>Cultivates optimism and commitment within the team</li>
-            <li>Tactifully manages sensitive issues and conflict</li>
+            <li>Tactfully manages sensitive issues and conflict</li>
         </ul></td>
     </tr>
 </table>
