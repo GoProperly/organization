@@ -8,6 +8,6 @@ The three categories of competencies can be used to map to typical job titles sp
 | SW Dev II           |   |  75% emerging, 25% proficient  |   |
 | SW Dev III (intermediate) | Proficient: "Tech Design, Implementation and Code Ownership" | 50% emerging, 50% proficient |   |
 | SW Dev IV (senior I) | Proficient: "Communication" or "System Design" | 50% proficient; some authority  |   |
-| SW Dev V (senior II) | Proficient: "Communication" and "System Design" | 80% proficient; some authority  | May be expert or generalist |
+| SW Dev V (senior II) | Proficient: "Communication" and "System Design" | 75% proficient; some authority  | May be expert or generalist |
 | Principle SW Dev    | Proficient: "Technical Change" | 50% Proficient; 50% Authority | Strong self awareness, Strong on general areas such as business acumen |
 | Distinguished       | Authority: "Technical Change" | | Broad authority or extreme depth in a technical branch |
