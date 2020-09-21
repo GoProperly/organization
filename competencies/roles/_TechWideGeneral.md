@@ -111,6 +111,7 @@
             <!--- Proficient  -->
             <li>Exercises assumption of good-intent within and across teams</li>
             <li>Takes regular opportunities to give and solicit feedback</li>
+            <li>Routinely unblocks and assists others</li>
         </ul></td>
         <td><ul>
             <!--- Authority -->
