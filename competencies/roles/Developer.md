@@ -80,8 +80,9 @@ As well as the role specific competencies below, all tech roles in properly invo
             <!--- Emerging  -->
             <li>Can develop code and tests within an agreed design structure, can contribute to the design discussion</li>
             <li>Can evaluate and compare two pieces of code with provided design goals</li>
-            <li>Contributing as one of the team to codebase, ownership of small changes</li>
+            <li>Contributing as one of the team to codebase, ownership of impactful changes</li>
             <li>Given tech design goals can identify a development approach to breaking down a problem</li>
+            <li>Participates in code reviews, asks clarifying questions and occasionally provides suggestions</li>
         </ul></td>
         <td><ul>
             <!--- Proficient  -->
