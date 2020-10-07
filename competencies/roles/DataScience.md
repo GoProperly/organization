@@ -129,5 +129,21 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <li>Routinely identifies important areas to report and visualize</li>
         </ul></td>
     </tr>
+    <tr>
+        <td>
+            <strong> System Design from <a href="./Developer.md">Developer</a> </strong>
+        </td>
+        <td/>
+        <td/>
+        <td/>
+    </tr>
+    <tr>
+        <td>
+            <strong> Tech Design, Implementation and Code Ownership from <a href="./Developer.md">Developer</a> </strong>
+        </td>
+        <td/>
+        <td/>
+        <td/>
+    </tr>
 </table>
 
