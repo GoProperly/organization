@@ -7,7 +7,7 @@ a role family called Machine Learning Engineer
 
 | Title/Job                   |  Industry Comparison       | Key Competenies                                                     | Other Competencies              |     Notes  |
 | --------------------------- |:-------------------------- |:-------------------------------------------------------------------:| -------------------------------:| ----------:|
-| Data Science II             |  L1 typically 1-2 years    |                                                                     |  75% emerging, 25% proficient   |  New Grad, or first one or two years |
+| Data Science II             |  L1 typically 1-2 years    |                                                                     |  75% emerging, 25% proficient   | typically first one or two years |
 | Data Science III            |  L2 typically 2-4 years    | Proficient: "Machine Learning Analysis"                             | 50% emerging, 50% proficient    |   |
 | Data Science IV             |  L3 typically 5+  years    | Proficient: "Error, Causality, Inference"                           | 50% proficient; some authority  |  | 
 | Data Science V              |  L3 typically < 8 years    |  Proficient or Authority  "Business Alignment" and "Communication"  | 75% proficient; some authority  | High end to end impact; | 
