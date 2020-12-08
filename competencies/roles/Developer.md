@@ -108,7 +108,9 @@ As well as the role specific competencies below, all tech roles in properly invo
         </td>
         <td><ul>
             <!--- Emerging  -->
-            Not Applicable.
+            <li> Curious about the interactions of approaches and decisions on wider outcome </li>
+            <li> Questions and discusses organizational, business, customer, and technology interactions </li>
+            <li> "What if ... ?" </li> 
         </ul></td>
         <td><ul>
             <!--- Proficient  -->
