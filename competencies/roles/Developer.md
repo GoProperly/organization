@@ -63,6 +63,7 @@ As well as the role specific competencies below, all tech roles in properly invo
             <li>Actively develops and tests for relevant system issues (what happens in failure, how is the latency)</li>
             <li>Routinely considers most important system characteristics in designs (e.g. latency vs throughput vs resilience)</li>
             <li>Routinely raises system relevant system design factors, and helps team disregard irrelevant (latency on background process, testability of one time script)</li>
+            <li>Manage the plan, start, execution, end, and maintenance at least one project of a significant system</li>
         </ul></td>
         <td><ul>
             <!--- Authority -->
