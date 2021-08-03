@@ -10,4 +10,3 @@ The three categories of competencies can be used to map to typical job titles sp
 | SW Dev IV (senior I)      | Proficient: "System Design"                                  | 75% proficient or greater      | May be expert or generalist  |
 | SW Dev V (senior II)      | Proficient: "Communication"                                  | 25% authority                  | Expanded impact across teams / org |
 | Principal SW Dev          | Proficient: "Technical Change"                               | 50% Authority                  | Strong self awareness, Strong on general areas such as business acumen |
-| Distinguished             | Authority: "Technical Change"                                |                                | Broad authority or extreme depth in a technical branch |
