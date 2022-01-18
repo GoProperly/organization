@@ -106,7 +106,7 @@ As well as the role specific competencies below, all tech roles in properly invo
         <td><ul>
             <!--- Authority -->
             <li>Aligning technology and process roadmap to product direction</li>
-            <li>Effectve release choices and risk management and visibiliy. Systematic and situational</li>
+            <li>Effectve release choices and risk management and visibility. Systematic and situational</li>
             <li>Partner with senior leaders and product leaders to produce better long term release plans. Able to produce short term release plans that culminate to significant changes</li>
             <li>Systematic and high degree of understanding of velocity, and blockers. Expansive organization view of introducing changes and improvements</li>
             <li>Systems (checkins, updates, feedback) and distributed responsiblity to confirm release readiness. Develops high organizational confidence and end user confidence</li>
