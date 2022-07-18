@@ -27,24 +27,24 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <strong>Business Alignment - "Good Questions"</strong>
         </td>
         <td><ul>
-            <li>Can assess questions based on whether they are precise enough to develop an analysis or model.</li>
-            <li>Can participate in and capture key requirements in team discussions of needed analysis. Translating concise business question to technical equivalent.</li>
-            <li>Effective at soliciting feedback on the effectiveness of analysis in solving problems.</li>
+            <li>Able to assess business questions and determine whether they are precise enough to develop an analysis or model.</li>
+            <li>Able to participate in team discussions regarding analysis and capture key requirements. Capable of translating business questions to concise technical asks.</li>
+            <li>Effective at soliciting feedback on the effectiveness of analyses.</li>
         </ul></td>
         <td><ul>
             <!--- Proficient  -->
-            <li>Active participation and outreach in explorating an ambiguous space, mapping to technical space, and communicating implications effectively.</li>
-            <li>Can participate in a business level objectives discussion and develop testable data hypotheses.</li>
-            <li>Systematically approach questions of effectiveness and identify adjacent opportunities or questions;
-                systematically check understanding of problem and relevance of solutions.</li>
+            <li>Active participation and outreach in explorating an ambiguous problem space, mapping to technical space, and  effectively communicating implications of analyses or technical methods.</li>
+            <li>Able to participate in business level objectives discussions and develop testable data hypotheses.</li>
+            <li>Systematically approaches analyses with questions of effectiveness and identify adjacent opportunities or questions;
+                systematically checks understanding of problem and relevance of solutions.</li>
         </ul></td>
         <td><ul>
             <!--- Authority -->
-            <li>Effective at understanding and communicating limitations of "knowing more" when a problem is no longer a "know more" situation</li>
-            <li>Effective thought partner for decision makers, improving their skills and thinking overall</li>
-            <li>Explorating an ambiguous space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add</li>
-            <li>Helps to organize business and data alignment processes that uncover needs</li>
-            <li>Systematically approach questions of effectiveness and identify adjacent opportunities or questions; develop ideas for improving overall data program in understanding of problem and relevance of solutions</li>
+            <li>Effective at understanding when a problem space has been sufficiently explorated and communicating the limitations of continuing to explorate</li>
+            <li>Effective thought partner for decisionmakers, improving their knowledge and critical thinking</li>
+            <li>Explorating an ambiguous problem space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add</li>
+            <li>Helps to organize the business-and-data alignment processes and uncover areas for improvement</li>
+            <li>Systematically approaches questions of effectiveness and identify adjacent opportunities or questions; develops ideas for improving overall data program in understanding of problem and relevance of solutions</li>
         </ul></td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
     </tr>
     <tr>
         <td>
-            <strong> System Design from <a href="./Developer.md">Developer</a> </strong>
+            <strong> System Design from <a href="./Developer.md">Developer</a> </strong> (applicable for ML Engineer)
         </td>
         <td/>
         <td/>
@@ -139,7 +139,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
     </tr>
     <tr>
         <td>
-            <strong> Tech Design, Implementation and Code Ownership from <a href="./Developer.md">Developer</a> </strong>
+            <strong> Tech Design, Implementation and Code Ownership from <a href="./Developer.md">Developer</a> </strong> (applicable for ML Engineer)
         </td>
         <td/>
         <td/>
