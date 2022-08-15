@@ -33,7 +33,7 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
         </ul></td>
         <td><ul>
             <!--- Proficient  -->
-            <li>Active participation and outreach in explorating an ambiguous problem space, mapping to technical space, and  effectively communicating implications of analyses or technical methods.</li>
+            <li>Active participation and outreach in exploring an ambiguous problem space, mapping to technical space, and  effectively communicating implications of analyses or technical methods.</li>
             <li>Able to participate in business level objectives discussions and develop testable data hypotheses.</li>
             <li>Systematically approaches analyses with questions of effectiveness and identify adjacent opportunities or questions;
                 systematically checks understanding of problem and relevance of solutions.</li>
