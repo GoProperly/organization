@@ -35,16 +35,16 @@ with [Developers](./Developer.md)/[DataEngineers](./DataEngineer.md) but also wi
             <!--- Proficient  -->
             <li>Active participation and outreach in exploring an ambiguous problem space, mapping to technical space, and  effectively communicating implications of analyses or technical methods.</li>
             <li>Able to participate in business level objectives discussions and develop testable data hypotheses.</li>
-            <li>Systematically approaches analyses with questions of effectiveness and identify adjacent opportunities or questions;
+            <li>Systematically approaches analyses with questions of effectiveness and identifies adjacent opportunities or questions;
                 systematically checks understanding of problem and relevance of solutions.</li>
         </ul></td>
         <td><ul>
             <!--- Authority -->
-            <li>Effective at understanding when a problem space has been sufficiently explorated and communicating the limitations of continuing to explorate</li>
-            <li>Effective thought partner for decisionmakers, improving their knowledge and critical thinking</li>
-            <li>Explorating an ambiguous problem space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add</li>
+            <li>Effective at understanding when a problem space has been sufficiently explored and communicating the limitations of continuing to explore</li>
+            <li>Effective thought partner for decision makers, improving their knowledge and critical thinking</li>
+            <li>Exploring an ambiguous problem space, mapping to technical space, and communicating implications effectively and impactfully. Aligned to business strategy and value add</li>
             <li>Helps to organize the business-and-data alignment processes and uncover areas for improvement</li>
-            <li>Systematically approaches questions of effectiveness and identify adjacent opportunities or questions; develops ideas for improving overall data program in understanding of problem and relevance of solutions</li>
+            <li>Systematically approaches questions of effectiveness and identifies adjacent opportunities or questions; develops ideas for improving overall data program in understanding of problem and relevance of solutions</li>
         </ul></td>
     </tr>
     <tr>
