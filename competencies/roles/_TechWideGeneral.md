@@ -15,7 +15,7 @@
         </th>
     </tr>
     <tr>
-        <td>
+        <td rowspan="2">
             <strong>Business Acumen</strong>
         </td>
         <td><ul>
@@ -43,7 +43,12 @@
         </ul></td>
     </tr>
     <tr>
-        <td>
+        <td colspan="3">
+            Blurb to clarify business acumen proficiency and authority in the context of developer roles
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
             <strong>Communication</strong>
         </td>
         <td><ul>
@@ -74,7 +79,12 @@
         </ul></td>
     </tr>
     <tr>
-        <td>
+        <td colspan="3">
+            Blurb to clarify communication proficiency and authority in the context of developer roles
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
             <strong>Execution</strong>
         </td>
         <td><ul>
@@ -96,6 +106,12 @@
             <li>Designs systems that enable teams and individuals to succeed to maximum potential without burnout</li>
             <li>Motivates and inspires others during challenging times</li>
         </ul></td>
+    </tr>
+    <tr>
+        <td colspan="3">**Note**: this is measured in the context of the role. Execution in a
+        management role is measured through ability to execute <u>as a manager</u>, supporting direct reports and
+        the team's ability to deliver. Delegation as an individual contributor can involve coordinating efforts on
+        a project and assigning tasks.</td>
     </tr>
     <tr>
         <td>
