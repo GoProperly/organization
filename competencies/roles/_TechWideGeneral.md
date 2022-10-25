@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td colspan="3">
-            Blurb to clarify business acumen proficiency and authority in the context of developer roles
+            Refer to the notes on <b>Interpreting Business Acumen</b> below for clarification
         </td>
     </tr>
     <tr>
@@ -80,7 +80,22 @@
     </tr>
     <tr>
         <td colspan="3">
-            Blurb to clarify communication proficiency and authority in the context of developer roles
+            "<b>Emerging</b>" communication is generally scoped to intra-team activities, demonstrating effectiveness
+            (in delivery, comprehension, and clarification) within the immediate team, and only occasionally presenting
+            material for feedback across engineering teams.
+            <br><br>
+            Demonstration of "<b>Proficient</b>" for engineering roles expands beyond the immediate team and involves
+            facilitating inter-team discussions and larger meetings effectively (e.g. eng town hall, guilds, DEPO and
+            beyond). There is heightened focus on active listening, understanding different opinions and perspectives,
+            and engaging in those discussions. Also increasing expectation of written content and presentations as a
+            communication medium.
+            <br><br>
+            Engineering members demonstrating "<b>Authority</b>" in this competency are able to achieve high
+            comprehension with a variety of audiences when communicating complex technical concepts (e.g. in design
+            docs, PR reviews, QBRs, planning, cross-functional meetings). They are aware of nuances in communication
+            (e.g. tone, body language, word choice) and able to use these effectively in different situations for varied
+            outcomes (e.g. lower stress in "high stakes" conversations, rally team to a cause, redirect conversations
+            towards goals or optimism or commitment, blameless retrospectives to surface improvements).
         </td>
     </tr>
     <tr>
