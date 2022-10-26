@@ -85,10 +85,10 @@
             material for feedback across engineering teams.
             <br><br>
             Demonstration of "<b>Proficient</b>" for engineering roles expands beyond the immediate team and involves
-            facilitating inter-team discussions and larger meetings effectively (e.g. eng town hall, guilds, DEPO and
-            beyond). There is heightened focus on active listening, understanding different opinions and perspectives,
-            and engaging in those discussions. Also increasing expectation of written content and presentations as a
-            communication medium.
+            inter-team discussions and facilitating larger meetings effectively (e.g. eng town hall, guilds, lunch and
+            learns, DEPO and beyond). There is heightened focus on active listening, understanding different opinions
+            and perspectives, and engaging in those discussions. Also increasing expectation of written content and
+            presentations as a communication medium.
             <br><br>
             Engineering members demonstrating "<b>Authority</b>" in this competency are able to achieve high
             comprehension with a variety of audiences when communicating complex technical concepts (e.g. in design
