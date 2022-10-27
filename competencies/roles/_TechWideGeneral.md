@@ -15,7 +15,7 @@
         </th>
     </tr>
     <tr>
-        <td>
+        <td rowspan="2">
             <strong>Business Acumen</strong>
         </td>
         <td><ul>
@@ -43,7 +43,12 @@
         </ul></td>
     </tr>
     <tr>
-        <td>
+        <td colspan="3">
+            Refer to the notes on <b>Interpreting Business Acumen</b> below for clarification
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
             <strong>Communication</strong>
         </td>
         <td><ul>
@@ -74,7 +79,27 @@
         </ul></td>
     </tr>
     <tr>
-        <td>
+        <td colspan="3">
+            "<b>Emerging</b>" communication is generally scoped to intra-team activities, demonstrating effectiveness
+            (in delivery, comprehension, and clarification) within the immediate team, and only occasionally presenting
+            material for feedback across engineering teams.
+            <br><br>
+            Demonstration of "<b>Proficient</b>" for engineering roles expands beyond the immediate team and involves
+            inter-team discussions and facilitating larger meetings effectively (e.g. eng town hall, guilds, lunch and
+            learns, DEPO and beyond). There is heightened focus on active listening, understanding different opinions
+            and perspectives, and engaging in those discussions. Also increasing expectation of written content and
+            presentations as a communication medium.
+            <br><br>
+            Engineering members demonstrating "<b>Authority</b>" in this competency are able to achieve high
+            comprehension with a variety of audiences when communicating complex technical concepts (e.g. in design
+            docs, PR reviews, QBRs, planning, cross-functional meetings). They are aware of nuances in communication
+            (e.g. tone, body language, word choice) and able to use these effectively in different situations for varied
+            outcomes (e.g. lower stress in "high stakes" conversations, rally team to a cause, redirect conversations
+            towards goals or optimism or commitment, blameless retrospectives to surface improvements).
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
             <strong>Execution</strong>
         </td>
         <td><ul>
@@ -96,6 +121,12 @@
             <li>Designs systems that enable teams and individuals to succeed to maximum potential without burnout</li>
             <li>Motivates and inspires others during challenging times</li>
         </ul></td>
+    </tr>
+    <tr>
+        <td colspan="3">**Note**: this is measured in the context of the role. Execution in a
+        management role is measured through ability to execute <u>as a manager</u>, supporting direct reports and
+        the team's ability to deliver. Delegation as an individual contributor can involve coordinating efforts on
+        a project and assigning tasks.</td>
     </tr>
     <tr>
         <td>
